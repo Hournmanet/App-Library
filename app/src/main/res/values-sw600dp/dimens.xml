@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Common padding and margins for tablets -->
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+    <dimen name="padding_xlarge">32dp</dimen>
+    
+    <!-- Card spacing for tablets -->
+    <dimen name="card_spacing">8dp</dimen>
+    <dimen name="card_margin">16dp</dimen>
+    
+    <!-- App Icon for tablets - larger -->
+    <dimen name="app_icon_size">160dp</dimen>
+    <dimen name="developer_icon_size">60dp</dimen>
+    
+    <!-- Text spacing for tablets -->
+    <dimen name="text_margin_small">8dp</dimen>
+    <dimen name="text_margin_medium">12dp</dimen>
+    <dimen name="text_margin_large">16dp</dimen>
+    
+    <!-- Section spacing for tablets -->
+    <dimen name="section_padding">24dp</dimen>
+    <dimen name="section_margin">16dp</dimen>
+    
+    <!-- Preview images for tablets - larger -->
+    <dimen name="preview_width">300dp</dimen>
+    <dimen name="preview_height">500dp</dimen>
+    <dimen name="preview_margin">16dp</dimen>
+    
+    <!-- Card corner radius for tablets -->
+    <dimen name="card_corner_radius">16dp</dimen>
+    
+    <!-- Card elevation for tablets -->
+    <dimen name="card_elevation">4dp</dimen>
+    
+    <!-- Grid padding for tablets -->
+    <dimen name="grid_padding_horizontal">16dp</dimen>
+    <dimen name="grid_margin_horizontal">16dp</dimen>
+    <dimen name="grid_margin_vertical">24dp</dimen>
+</resources>
+

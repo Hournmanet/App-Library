@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Common padding and margins -->
+    <dimen name="padding_small">4dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_xlarge">24dp</dimen>
+    
+    <!-- Card spacing -->
+    <dimen name="card_spacing">4dp</dimen>
+    <dimen name="card_margin">8dp</dimen>
+    
+    <!-- App Icon -->
+    <dimen name="app_icon_size">120dp</dimen>
+    <dimen name="developer_icon_size">40dp</dimen>
+    
+    <!-- Text spacing -->
+    <dimen name="text_margin_small">4dp</dimen>
+    <dimen name="text_margin_medium">8dp</dimen>
+    <dimen name="text_margin_large">12dp</dimen>
+    
+    <!-- Section spacing -->
+    <dimen name="section_padding">16dp</dimen>
+    <dimen name="section_margin">12dp</dimen>
+    
+    <!-- Preview images -->
+    <dimen name="preview_width">200dp</dimen>
+    <dimen name="preview_height">350dp</dimen>
+    <dimen name="preview_margin">12dp</dimen>
+    
+    <!-- Card corner radius -->
+    <dimen name="card_corner_radius">12dp</dimen>
+    
+    <!-- Card elevation -->
+    <dimen name="card_elevation">2dp</dimen>
+    
+    <!-- Grid padding -->
+    <dimen name="grid_padding_horizontal">8dp</dimen>
+    <dimen name="grid_margin_horizontal">8dp</dimen>
+    <dimen name="grid_margin_vertical">16dp</dimen>
+</resources>
+

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">library</string>
+    
+    <!-- App Store Platform Strings -->
+    <string name="app_title">Khmer Dictionary 2022</string>
+    <string name="khmer_title">វចនានុក្រមខ្មែរ</string>
+    <string name="khmer_title_dash">វចនានុក្រមខ្មែរ-</string>
+    <string name="app_category">Reference</string>
+    <string name="app_icon">App Icon</string>
+    
+    <!-- Buttons -->
+    <string name="open_button">Open</string>
+    <string name="share">Share</string>
+    <string name="share_via">Share via</string>
+    <string name="share_text">Check out Khmer Dictionary 2022 - A comprehensive Khmer dictionary app!</string>
+    <string name="app_opening">Opening app...</string>
+    
+    <!-- App Details -->
+    <string name="ratings_label">75 RATINGS</string>
+    <string name="ratings_value">4.5</string>
+    <string name="age_label">AGE</string>
+    <string name="age_value">4+</string>
+    <string name="age_sublabel">Years Old</string>
+    <string name="chart_label">CHART</string>
+    <string name="chart_value">No.9</string>
+    <string name="chart_sublabel">Reference</string>
+    <string name="developer_label">DEVELOPER</string>
+    <string name="developer_icon">Developer Icon</string>
+    <string name="developer_name">Royal Academy</string>
+    
+    <!-- What\'s New Section -->
+    <string name="whats_new_header">What\'s New</string>
+    <string name="version_text">Version 4.01</string>
+    <string name="whats_new_description">Bug fixes and general improvements.</string>
+    <string name="update_time">1y ago</string>
+    <string name="whats_new_full">Version 4.01 - Bug fixes and general improvements. This update includes various performance enhancements and bug fixes to improve your experience with the Khmer Dictionary app.</string>
+    
+    <!-- Preview Section -->
+    <string name="preview_header">Preview</string>
+    <string name="preview_screenshot">App Preview Screenshot</string>
+    
+    <!-- Dictionary Screen -->
+    <string name="refresh">Refresh</string>
+</resources>
